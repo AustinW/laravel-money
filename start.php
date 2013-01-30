@@ -1,5 +1,5 @@
 <?php
 
 Autoloader::namespaces(array(
-	'Money' => Bundle::path('money') . '/money/lib/Money'
+	'Money' => path('bundle') . 'money/money/lib/Money'
 ));
